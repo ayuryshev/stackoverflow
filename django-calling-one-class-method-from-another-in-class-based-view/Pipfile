@@ -14,3 +14,4 @@ django = "*"
 
 pylint = "*"
 yapf = "*"
+ipython = "*"
